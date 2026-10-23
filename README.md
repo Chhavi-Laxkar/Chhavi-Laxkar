@@ -108,6 +108,11 @@ Hi! I'm Chhavi, an AI & Data Science student at IIT Jodhpur. I'm passionate abou
 * Connect with fellow developers and contribute to open-source projects.
 
 ---
+🌱 My Philosophy
+
+I believe in learning by doing, staying curious, and improving one step at a time.
+
+Every project is an opportunity to learn something new and turn knowledge into practical experience.
 
 <p align="center">
   <strong>✨ Learning Today. Building Tomorrow. 🚀</strong>
